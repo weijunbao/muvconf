@@ -1,0 +1,1 @@
+Open source multi-user video conference client for SIP server compatible with WebSocket.
